@@ -7,6 +7,15 @@ const Mainone = () => {
                   <div className={g.one}></div>
                   <div className={g.two}></div>
                   <div className={g.three}></div>
+                  <div className={g.one}></div>
+                  <div className={g.two}></div>
+                  <div className={g.three}></div>
+                  <div className={g.one}></div>
+                  <div className={g.two}></div>
+                  <div className={g.three}></div>
+                  <div className={g.one}></div>
+                  <div className={g.two}></div>
+                  <div className={g.three}></div>
             </div>
       );
 }
