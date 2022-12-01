@@ -7,6 +7,9 @@ const Mainthree = () => {
                   <div className={l.one}></div>
                   <div className={l.two}></div>
                   <div className={l.three}></div>
+                  <div className={l.one}></div>
+                  <div className={l.two}></div>
+                  <div className={l.three}></div>
             </div>
       );
 }
